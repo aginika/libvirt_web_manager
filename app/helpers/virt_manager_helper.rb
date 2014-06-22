@@ -1,0 +1,2 @@
+module VirtManagerHelper
+end
